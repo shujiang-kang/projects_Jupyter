@@ -1,3 +1,2 @@
-# jupyter_notebooks
-some exercises of jupyter 
-some python codes
+# Project codes with jupyter_notebooks
+python codes
