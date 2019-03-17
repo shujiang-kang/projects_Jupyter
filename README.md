@@ -1,2 +1,2 @@
 # Project codes with jupyter_notebooks
-python codes
+python codes for models
